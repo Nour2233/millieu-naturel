@@ -1,2 +1,3 @@
 # millieu-naturel
-Un millieu naturel est un espace ou les écosystèmes, incluant ses composantes physiiques (sol,eau,air) et biologiques (faune,flore), ne sont pas durablement alt
+espace caractérisé par des facteurs physiques (sol, eau, climat) et biologiques (faune, flore) qui permettent à la vie de s'y développer et de se reproduire, souvent sans altération humaine majeure
+
